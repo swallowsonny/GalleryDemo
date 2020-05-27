@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GalleryDemo</string>
+    <string name="screen_transition">screen_transition</string>
+</resources>
